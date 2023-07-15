@@ -1,0 +1,17 @@
+{
+    "status": [
+        {
+            "id": 1,
+            "status": "success"
+        },
+        {
+            "id": 2,
+            "status": "success"
+        },
+        {
+            "id": 3,
+            "status": "success",
+            "random": "yes"
+        }
+    ]
+}
